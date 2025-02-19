@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: diloco_sim
+Version: 0.1.0
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: torchtext
+Requires-Dist: portalocker
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: tqdm
+Requires-Dist: Pillow
+Requires-Dist: wandb
+Requires-Dist: transformers
+Requires-Dist: datasets
+Dynamic: requires-dist
